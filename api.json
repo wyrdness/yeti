@@ -1,10 +1,8 @@
 {
-  "category": "CRYPTID",
-
   "meta": {
     "version": "1.0.0",
     "schema_version": "1.0.0",
-    "last_updated": "2026-01-14",
+    "last_updated": "2026-02-13",
     "repository": "https://github.com/wyrdness/yeti",
     "maintainers": [
       {
@@ -18,627 +16,111 @@
       "content": "CC-BY-4.0"
     }
   },
-
   "phenomenon": {
     "id": "yeti",
     "name": "Yeti",
-    "aliases": [
-      {
-        "name": "Abominable Snowman",
-        "language": "English",
-        "region": "Global",
-        "meaning": "Western designation popularized in 1920s"
-      },
-      {
-        "name": "Meh-Teh",
-        "language": "Tibetan",
-        "region": "Tibet",
-        "meaning": "Man-bear"
-      },
-      {
-        "name": "Migoi",
-        "language": "Tibetan",
-        "region": "Tibet",
-        "meaning": "Wild man"
-      },
-      {
-        "name": "Kang Admi",
-        "language": "Sherpa",
-        "region": "Nepal",
-        "meaning": "Snowman"
-      },
-      {
-        "name": "Dzu-teh",
-        "language": "Tibetan",
-        "region": "Tibet",
-        "meaning": "Large creature"
-      }
-    ],
+    "aliases": [],
     "category": "CRYPTID",
-    "subcategory": "Humanoid",
+    "subcategory": "| Description | Status |",
     "tags": [
-      "humanoid",
-      "bipedal",
-      "primate",
-      "mountain-dwelling",
-      "himalayas",
-      "snow-adapted",
-      "large-creature"
+      "folklore",
+      "mythology"
     ],
-    "status": "active",
+    "status": "documented",
     "description": {
-      "summary": "A large, ape-like creature said to inhabit the Himalayan mountains of Nepal, Tibet, and Bhutan. Known in Western culture as the Abominable Snowman.",
-      "full": "The Yeti is a legendary ape-like creature purported to inhabit the Himalayan mountain range of Asia. Described as standing 6-10 feet tall, covered in reddish-brown or white fur, and adapted to high-altitude environments, the Yeti has been part of local folklore for centuries. The creature gained international attention in the early 20th century through accounts from Western mountaineers. While scientific expeditions have found no conclusive evidence, the Yeti remains deeply embedded in Himalayan culture and continues to fascinate cryptozoologists worldwide."
+      "summary": "The Yeti, also known as the Abominable Snowman, is a legendary ape-like creature purported to inhabit the Himalayan mountain range of Asia.",
+      "full": "The Yeti, also known as the Abominable Snowman, is a legendary ape-like creature purported to inhabit the Himalayan mountain range of Asia. Described as standing 6-10 feet tall, covered in reddish-brown or white fur, and adapted to high-altitude environments, the Yeti has been part of local folklore for centuries. The phenomenon gained international attention in the early 20th century through accounts from Western mountaineers exploring the world's highest peaks. While scientific expeditions have found no conclusive evidence, the Yeti remains deeply embedded in Himalayan culture and continues to fascinate cryptozoologists worldwide. The Yeti represents one of the most iconic cryptid phenomena globally, with approximately 200 documented sightings, deep roots in Tibetan Buddhist and Sherpa traditions, and continued cultural significance throughout the Himalayan region. Recent DNA analysis has identified many \\\"Yeti\\\" samples as coming from rare Himalayan bear species, though debate continues."
     },
     "etymology": {
-      "origin": "From Tibetan 'yeh-teh' meaning 'little man-like animal' or 'rock bear'. The term 'Abominable Snowman' arose from a mistranslation of the Tibetan name 'Metoh-Kangmi' by British journalist Henry Newman in 1921.",
-      "meaning": "Varies by language - generally refers to wild man or man-bear creature",
-      "first_use": "1921 (Western media)"
+      "origin": "Unknown",
+      "meaning": "To be documented",
+      "first_use": "Unknown"
     }
   },
-
   "classification": {
     "taxonomy": {
       "category": "CRYPTID",
-      "type": "Humanoid",
-      "subtype": "Primate-like",
-      "variant": "Himalayan"
+      "type": "| Description | Status |",
+      "subtype": "Unknown",
+      "variant": "Unknown"
     },
-    "related_phenomena": [
-      {
-        "id": "bigfoot",
-        "name": "Bigfoot",
-        "relationship": "similar",
-        "description": "North American equivalent, also known as Sasquatch"
-      },
-      {
-        "id": "almas",
-        "name": "Almas",
-        "relationship": "regional_variant",
-        "description": "Central Asian wild man, smaller than Yeti"
-      },
-      {
-        "id": "yowie",
-        "name": "Yowie",
-        "relationship": "similar",
-        "description": "Australian cryptid hominid"
-      },
-      {
-        "id": "yeren",
-        "name": "Yeren",
-        "relationship": "regional_variant",
-        "description": "Chinese wild man"
-      }
-    ]
+    "related_phenomena": []
   },
-
   "characteristics": {
     "physical": {
-      "height": {
-        "min": 1.8,
-        "max": 3.0,
-        "unit": "meters",
-        "confidence": "medium"
-      },
-      "weight": {
-        "min": 150,
-        "max": 400,
-        "unit": "kilograms",
-        "confidence": "low"
-      },
-      "coloration": [
-        "reddish-brown",
-        "white",
-        "gray",
-        "black"
-      ],
-      "features": [
-        {
-          "feature": "Body hair",
-          "description": "Covered in thick, shaggy fur adapted to extreme cold",
-          "frequency": "always"
-        },
-        {
-          "feature": "Facial structure",
-          "description": "Ape-like face with pronounced brow ridge",
-          "frequency": "common"
-        },
-        {
-          "feature": "Large feet",
-          "description": "Broad feet adapted for snow travel, leaving distinctive tracks",
-          "frequency": "always"
-        },
-        {
-          "feature": "Conical head",
-          "description": "Pointed or domed skull shape reported",
-          "frequency": "occasional"
-        },
-        {
-          "feature": "High-altitude adaptation",
-          "description": "Presumed adaptations for thin air and extreme cold",
-          "frequency": "theoretical"
-        }
-      ],
-      "morphology": "Bipedal humanoid with ape-like features. Stocky, muscular build with broad shoulders. Long arms. Adapted for mountainous terrain and extreme cold."
+      "features": [],
+      "morphology": "See README.md for detailed physical description"
     },
-    "abilities": [
-      {
-        "ability": "High-altitude survival",
-        "description": "Able to traverse extreme high-altitude environments",
-        "frequency": "always",
-        "evidence_level": "reported"
-      },
-      {
-        "ability": "Vocalizations",
-        "description": "Reported whistles, screams, and calls",
-        "frequency": "occasional",
-        "evidence_level": "reported"
-      },
-      {
-        "ability": "Stealth",
-        "description": "Ability to move through mountainous terrain undetected",
-        "frequency": "common",
-        "evidence_level": "reported"
-      }
-    ],
+    "abilities": [],
     "behavior": {
-      "activity_period": "variable",
-      "disposition": "neutral to aggressive",
-      "social_structure": "solitary",
-      "habitat_preference": [
-        "high mountains",
-        "snowfields",
-        "remote valleys",
-        "cave systems"
-      ],
-      "diet": "Presumed omnivorous or herbivorous",
-      "patterns": [
-        "Avoids human contact",
-        "Territorial behavior",
-        "Seasonal movement patterns suggested"
-      ]
+      "activity_period": "unknown",
+      "disposition": "unknown",
+      "habitat_preference": []
     }
   },
-
   "distribution": {
     "range": {
-      "description": "Himalayan mountain range including Nepal, Tibet, Bhutan, and northern India. Reports concentrated in remote, high-altitude regions.",
-      "continents": ["Asia"],
-      "countries": ["Nepal", "Tibet (China)", "Bhutan", "India"],
-      "regions": [
-        "Mount Everest region",
-        "Annapurna range",
-        "Langtang region",
-        "Bhutanese Himalayas",
-        "Sikkim"
-      ]
+      "description": "Unknown",
+      "continents": [],
+      "countries": [],
+      "regions": []
     },
-    "hotspots": [
-      {
-        "name": "Khumbu Region",
-        "location": {
-          "description": "Mount Everest area, Sagarmatha National Park",
-          "country": "Nepal",
-          "region": "Solukhumbu District",
-          "coordinates": {
-            "latitude": 27.9881,
-            "longitude": 86.9250
-          }
-        },
-        "sighting_count": 100,
-        "peak_period": "1920s-1950s",
-        "notes": "Most famous Yeti sighting region, reports from mountaineers"
-      },
-      {
-        "name": "Menlung Basin",
-        "location": {
-          "description": "Remote valley near Nepal-Tibet border",
-          "country": "Nepal/Tibet",
-          "region": "Rolwaling Valley",
-          "coordinates": {
-            "latitude": 28.1,
-            "longitude": 86.5
-          }
-        },
-        "sighting_count": 50,
-        "peak_period": "1950s-1970s",
-        "notes": "Multiple expeditions focused on this area"
-      }
-    ],
+    "hotspots": [],
     "temporal": {
       "first_recorded": {
-        "date": "Pre-Buddhist",
+        "date": "Unknown",
         "circa": true,
-        "source": "Tibetan Buddhist texts and oral traditions"
-      },
-      "peak_activity_periods": [
-        {
-          "period": "1920-1960",
-          "description": "Golden age of Himalayan exploration and Yeti reports"
-        },
-        {
-          "period": "1950s",
-          "description": "Peak Western interest and expeditions"
-        }
-      ],
-      "seasonal_patterns": "Reports more common in spring and autumn climbing seasons"
+        "source": "Traditional folklore"
+      }
     }
   },
-
   "history": {
     "origins": {
-      "cultural_roots": "Deep roots in Tibetan Buddhist and pre-Buddhist Bon traditions. Indigenous Sherpa people have long traditions of wild man creatures in the mountains.",
-      "earliest_accounts": "Referenced in Tibetan texts dating back centuries. Pre-Buddhist shamanic traditions include mountain spirit beings.",
-      "folklore_connections": "Connected to worldwide wild man mythology including North American Bigfoot and other regional variants."
+      "cultural_roots": "Unknown",
+      "earliest_accounts": "See README.md for historical details",
+      "folklore_connections": "Unknown"
     },
-    "timeline": [
-      {
-        "date": "1832",
-        "event": "B.H. Hodgson report",
-        "significance": "British official reports locals fleeing from tall, bipedal creature covered in long dark hair",
-        "source": "Journal of the Asiatic Society of Bengal"
-      },
-      {
-        "date": "1921",
-        "event": "Mount Everest Reconnaissance Expedition",
-        "significance": "Colonel Charles Howard-Bury reports large footprints. Henry Newman coins 'Abominable Snowman'",
-        "source": "Press reports from expedition"
-      },
-      {
-        "date": "1925",
-        "event": "N.A. Tombazi sighting",
-        "significance": "Greek photographer sees creature at 15,000 feet in Sikkim",
-        "source": "Tombazi's expedition account"
-      },
-      {
-        "date": "1951",
-        "event": "Eric Shipton photographs",
-        "significance": "Famous photographs of large footprints on Menlung Glacier",
-        "source": "Shipton expedition photographs"
-      },
-      {
-        "date": "1954",
-        "event": "Daily Mail Expedition",
-        "significance": "Major British newspaper funds scientific expedition",
-        "source": "Daily Mail reports"
-      },
-      {
-        "date": "1960",
-        "event": "Sir Edmund Hillary Expedition",
-        "significance": "Hillary leads expedition finding no conclusive evidence",
-        "source": "Hillary expedition reports"
-      },
-      {
-        "date": "2017",
-        "event": "DNA analysis of 'Yeti' samples",
-        "significance": "Samples from Himalayan region identified as Himalayan brown bear and Tibetan blue bear",
-        "source": "Proceedings of the Royal Society B"
-      }
-    ],
-    "modern_era": "Modern Yeti research combines traditional investigation with DNA analysis, camera traps, and environmental surveys. Interest remains high in both local culture and international cryptozoology community."
+    "timeline": []
   },
-
   "sightings": {
     "statistics": {
-      "total_documented": 200,
+      "total_documented": 0,
       "verified": 0,
-      "disputed": 180,
-      "debunked": 20,
-      "date_range": {
-        "earliest": "1832",
-        "latest": "2025"
-      }
+      "disputed": 0,
+      "debunked": 0
     },
-    "notable": [
-      {
-        "id": "yeti-sighting-1925-tombazi",
-        "name": "Tombazi Sighting",
-        "date": {
-          "value": "1925",
-          "precision": "year"
-        },
-        "location": {
-          "description": "Zemu Glacier, Sikkim",
-          "country": "India",
-          "region": "Sikkim",
-          "coordinates": {
-            "latitude": 27.7,
-            "longitude": 88.5,
-            "precision": "approximate"
-          }
-        },
-        "witnesses": {
-          "count": 1,
-          "types": ["Photographer/Explorer"],
-          "credibility_factors": ["Experienced mountaineer", "Detailed account"]
-        },
-        "description": "Greek photographer N.A. Tombazi observed a creature at approximately 15,000 feet altitude. He described it as walking upright, stopping occasionally to pull at rhododendron bushes. The figure was dark against the snow and definitely bipedal.",
-        "conditions": {
-          "weather": "Clear",
-          "visibility": "Good but distant",
-          "time_of_day": "Afternoon",
-          "duration": "1-2 minutes"
-        },
-        "evidence": [
-          "Written account",
-          "Footprint descriptions"
-        ],
-        "credibility": {
-          "rating": "medium",
-          "factors": [
-            "Experienced observer",
-            "Detailed contemporary account",
-            "Distant sighting",
-            "Could be misidentified bear"
-          ],
-          "notes": "One of the earliest documented Western sightings by a credible observer."
-        },
-        "sources": [
-          "Tombazi expedition account"
-        ],
-        "featured": true
-      },
-      {
-        "id": "yeti-sighting-1951-shipton-tracks",
-        "name": "Shipton Footprint Photographs",
-        "date": {
-          "value": "1951-11",
-          "precision": "month"
-        },
-        "location": {
-          "description": "Menlung Glacier",
-          "country": "Nepal/Tibet",
-          "region": "Rolwaling Valley",
-          "coordinates": {
-            "latitude": 28.1,
-            "longitude": 86.5,
-            "precision": "approximate"
-          }
-        },
-        "witnesses": {
-          "count": 2,
-          "types": ["Mountaineers"],
-          "credibility_factors": ["Renowned climber Eric Shipton", "Photographic evidence"]
-        },
-        "description": "Eric Shipton and Michael Ward discovered and photographed a series of large footprints in the snow at 18,000 feet. The prints measured approximately 13 inches long and 8 inches wide with clear toe impressions.",
-        "conditions": {
-          "weather": "Clear",
-          "visibility": "Excellent",
-          "time_of_day": "Day",
-          "duration": "N/A (tracks only)"
-        },
-        "evidence": [
-          "Clear photographs of footprints",
-          "Ice axe for scale in photo",
-          "Multiple prints in sequence"
-        ],
-        "credibility": {
-          "rating": "medium-high",
-          "factors": [
-            "Photographic evidence",
-            "Credible witnesses",
-            "Remote location",
-            "Debate over whether natural phenomena or known animal could create prints"
-          ],
-          "notes": "Most famous photographic evidence of Yeti tracks. Heavily debated by researchers."
-        },
-        "sources": [
-          "Shipton, E. (1952). The Mount Everest Reconnaissance Expedition"
-        ],
-        "featured": true
-      }
-    ],
+    "notable": [],
     "database_path": "./sightings/"
   },
-
   "evidence": {
-    "physical": [
-      {
-        "id": "yeti-evidence-scalp",
-        "type": "alleged body part",
-        "name": "Pangboche Hand and Khumjung Scalp",
-        "date": "Various",
-        "description": "Alleged Yeti scalp kept at Khumjung monastery. Analysis revealed it to be from Himalayan serow (goat-antelope).",
-        "location": "Khumjung, Nepal",
-        "status": "debunked",
-        "analysis": "DNA and hair analysis identified as Himalayan serow",
-        "source": "Multiple expeditions and studies"
-      },
-      {
-        "id": "yeti-evidence-footprints",
-        "type": "footprints",
-        "name": "Documented footprint photographs",
-        "date": "Various",
-        "description": "Numerous photographs of large footprints in snow at high altitudes",
-        "status": "disputed",
-        "analysis": "Various explanations including melted/distorted known animal tracks, particularly bear tracks",
-        "source": "Multiple mountaineers and expeditions"
-      },
-      {
-        "id": "yeti-evidence-dna-2017",
-        "type": "hair and bone samples",
-        "name": "DNA Analysis Project",
-        "date": "2017",
-        "description": "Analysis of nine 'Yeti' samples from museums and private collections",
-        "status": "debunked",
-        "analysis": "Eight samples from Himalayan bears (brown and blue bears), one from dog",
-        "source": "Charlotte Lindqvist, University at Buffalo"
-      }
-    ],
-    "photographic": [
-      {
-        "id": "yeti-evidence-shipton",
-        "type": "photographs",
-        "name": "Shipton Footprint Photos",
-        "date": "1951",
-        "description": "Clear photographs of large footprints in snow",
-        "status": "disputed",
-        "analysis": "Debated whether tracks are from unknown creature, distorted bear prints, or natural phenomena",
-        "source": "Eric Shipton"
-      }
-    ],
+    "physical": [],
+    "photographic": [],
     "video": [],
     "audio": [],
     "trace": []
   },
-
   "theories": {
-    "paranormal": [
-      {
-        "name": "Tulpa/Thoughtform",
-        "description": "Theory that Yeti is a tulpa - a being created through spiritual or mental concentration in Tibetan Buddhist tradition",
-        "proponents": ["Some paranormal researchers"],
-        "evidence_cited": ["Tibetan Buddhist tulpa traditions", "Elusive nature of creature"]
-      }
-    ],
-    "scientific": [
-      {
-        "name": "Surviving Gigantopithecus",
-        "description": "Yeti could be descendant of Gigantopithecus blacki that migrated from Southeast Asia",
-        "proponents": ["Some cryptozoologists"],
-        "evidence_cited": ["Gigantopithecus fossils found in Asia", "Size estimates match"]
-      },
-      {
-        "name": "Unknown Bear Species",
-        "description": "An undiscovered or rare bear species with unusual behavior",
-        "proponents": ["Some zoologists"],
-        "evidence_cited": ["Himalayan brown bear rarity", "Bears can walk bipedally", "DNA evidence showing bear origins"]
-      },
-      {
-        "name": "Himalayan Brown Bear",
-        "description": "Rare Himalayan brown bear subspecies responsible for sightings",
-        "proponents": ["Mainstream science"],
-        "evidence_cited": ["2017 DNA studies", "Known behavior matches reports", "Bipedal walking documented"]
-      }
-    ],
-    "skeptical": [
-      {
-        "name": "Misidentification",
-        "description": "Sightings are misidentifications of known animals, particularly bears",
-        "proponents": ["Mainstream skeptics"],
-        "evidence_cited": ["DNA evidence", "Track analysis", "Known animal distributions"]
-      },
-      {
-        "name": "Track Distortion",
-        "description": "Footprints result from melting and distortion of normal animal tracks in snow",
-        "proponents": ["Scientific skeptics"],
-        "evidence_cited": ["Demonstrated snow distortion effects", "Matches known bear track patterns"]
-      },
-      {
-        "name": "Cultural Mythology",
-        "description": "Purely folkloric tradition without basis in biological reality",
-        "proponents": ["Cultural anthropologists"],
-        "evidence_cited": ["Lack of physical evidence", "Cultural significance of mountain spirits"]
-      }
-    ]
+    "paranormal": [],
+    "scientific": [],
+    "skeptical": []
   },
-
   "cultural": {
     "folklore": {
-      "traditions": [
-        "Tibetan Buddhist monastery traditions",
-        "Sherpa oral histories",
-        "Bon religion mountain spirit traditions"
-      ],
-      "stories": [
-        "Monastery guardian spirits",
-        "Mountain deity manifestations",
-        "Wild man of the peaks"
-      ],
-      "beliefs": "Many local communities view the Yeti as a real but spiritual being, deserving respect and fear. Some consider it a guardian of the mountains."
-    },
-    "indigenous": {
-      "cultures": [
-        "Sherpa",
-        "Tibetan",
-        "Bhutanese",
-        "Lepcha"
-      ],
-      "significance": "Integral part of mountain spiritual traditions. Often associated with Buddhist and pre-Buddhist beliefs about mountain spirits.",
-      "sensitivity_note": "Local traditions predate Western 'Abominable Snowman' sensationalism. Researchers should respect sacred sites and cultural beliefs.",
-      "respect_guidelines": "Seek permission before investigating in culturally significant areas. Do not disturb religious artifacts or sites."
+      "traditions": [],
+      "stories": [],
+      "beliefs": "See README.md for cultural context"
     },
     "popular_culture": {
-      "literature": [
-        "\"The Abominable Snowmen\" by Ralph Izzard (1955)",
-        "\"The Search for the Yeti\" by Reinhold Messner (2000)",
-        "Tintin in Tibet by Hergé (1960)"
-      ],
-      "film_tv": [
-        "The Abominable Snowman (1957 film)",
-        "Monsters, Inc. (2001) - character inspired by Yeti",
-        "Smallfoot (2018)",
-        "Expedition Unknown: Hunt for the Yeti (2016)"
-      ],
-      "games": [
-        "SkiFree (1991) - Yeti antagonist",
-        "Uncharted 2: Among Thieves (2009)"
-      ],
-      "other": [
-        "Tourism mascot in Nepal",
-        "Commercial branding",
-        "Popular culture icon"
-      ]
+      "literature": [],
+      "film_tv": [],
+      "games": [],
+      "other": []
     }
   },
-
   "research": {
-    "researchers": [
-      {
-        "name": "Sir Edmund Hillary",
-        "affiliation": "Mountaineer/Explorer",
-        "contribution": "Led 1960 expedition, concluded no conclusive evidence",
-        "period": "1960-1961"
-      },
-      {
-        "name": "Reinhold Messner",
-        "affiliation": "Renowned mountaineer",
-        "contribution": "Extensive research, concluded Yeti is Himalayan brown bear",
-        "period": "1986-2000"
-      },
-      {
-        "name": "Dr. Charlotte Lindqvist",
-        "affiliation": "University at Buffalo",
-        "contribution": "Led 2017 DNA analysis study of purported Yeti samples",
-        "period": "2017"
-      }
-    ],
-    "organizations": [
-      {
-        "name": "Expedition Unknown",
-        "url": "https://www.travelchannel.com/shows/expedition-unknown",
-        "focus": "Documentary investigation"
-      }
-    ],
-    "ongoing_studies": "Modern research focuses on DNA analysis of samples, camera trap surveys, and systematic documentation of Himalayan brown bear populations."
+    "researchers": [],
+    "organizations": [],
+    "ongoing_studies": "None documented"
   },
-
-  "sources": [
-    {
-      "id": "lindqvist-2017",
-      "type": "scientific paper",
-      "title": "Evolutionary history of enigmatic bears in the Tibetan Plateau–Himalaya region and the identity of the yeti",
-      "authors": ["Charlotte Lindqvist", "et al."],
-      "publication": "Proceedings of the Royal Society B",
-      "date": "2017",
-      "doi": "10.1098/rspb.2017.1804"
-    },
-    {
-      "id": "messner-2000",
-      "type": "book",
-      "title": "My Quest for the Yeti",
-      "authors": ["Reinhold Messner"],
-      "publication": "St. Martin's Griffin",
-      "date": "2000",
-      "isbn": "978-0312254186"
-    },
-    {
-      "id": "izzard-1955",
-      "type": "book",
-      "title": "The Abominable Snowman: Adventure in Search of the Yeti",
-      "authors": ["Ralph Izzard"],
-      "publication": "Hodder & Stoughton",
-      "date": "1955"
-    }
-  ]
+  "sources": []
 }
