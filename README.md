@@ -1,443 +1,286 @@
 # Yeti
 
-> *"In the silence of the high peaks, something watches from the snow."*
+> An ape-like humanoid cryptid said to inhabit the high Himalayas of Nepal, Tibet, Bhutan, and adjacent regions. Central to Sherpa, Tibetan, and Lepcha tradition long before Western contact, the Yeti became a global cryptozoological icon after 20th-century mountaineering expeditions reported tracks and encounters.
 
-[![API Version](https://img.shields.io/badge/api-v1.0.0-blue)]()
-[![Last Updated](https://img.shields.io/badge/updated-2026--01--14-green)]()
-[![Sightings](https://img.shields.io/badge/sightings-200+-orange)]()
-[![Status](https://img.shields.io/badge/status-active-brightgreen)]()
+[![API Version](https://img.shields.io/badge/api-v1.1.0-blue)]() [![Last Updated](https://img.shields.io/badge/updated-2026-05-07-green)]() [![Sightings](https://img.shields.io/badge/sightings-200-orange)]() ![Status](https://img.shields.io/badge/status-active-blue)
 
 ---
-
 ## Quick Reference
 
 | Property | Value |
-|----------|-------|
+|---|---|
 | **ID** | `yeti` |
 | **Category** | CRYPTID |
-| **Classification** | Humanoid / Primate-like |
-| **First Recorded** | Pre-Buddhist (Tibetan traditions) |
-| **Primary Region** | Asia (Himalayan Mountains) |
-| **Status** | Active |
+| **Subcategory** | Humanoid / hominid cryptid |
+| **First recorded** | Pre-19th century |
+| **Primary range** | The Yeti is reported across the Himalayan and adjacent ranges, particularly in Nepal (Khumbu, Solu, Mustang, Makalu-Barun), the Tibet Autonomous Region of China, Bhutan (where the migoi is the national cryptid), Sikkim and other northern Indian states, and parts of southern Siberia where related 'wild man' traditions exist |
+| **Status** | active |
 
 ---
-
 ## Overview
 
-The Yeti, also known as the Abominable Snowman, is a legendary ape-like creature purported to inhabit the Himalayan mountain range of Asia. Described as standing 6-10 feet tall, covered in reddish-brown or white fur, and adapted to high-altitude environments, the Yeti has been part of local folklore for centuries.
-
-The phenomenon gained international attention in the early 20th century through accounts from Western mountaineers exploring the world's highest peaks. While scientific expeditions have found no conclusive evidence, the Yeti remains deeply embedded in Himalayan culture and continues to fascinate cryptozoologists worldwide.
-
-The Yeti represents one of the most iconic cryptid phenomena globally, with approximately 200 documented sightings, deep roots in Tibetan Buddhist and Sherpa traditions, and continued cultural significance throughout the Himalayan region. Recent DNA analysis has identified many "Yeti" samples as coming from rare Himalayan bear species, though debate continues.
+The Yeti is a large, hairy, ape-like creature reported in the snowfields and forested valleys of the Himalayan range. Local Tibetan and Sherpa traditions describe several related beings collectively grouped under the modern term 'Yeti', most commonly the meh-teh (man-bear) and dzu-teh (cattle bear). Western interest accelerated after Eric Shipton's 1951 photographs of large footprints near the Menlung Glacier on the approach to Mount Everest. Several mid-20th-century expeditions, notably Tom Slick's 1957–1959 ventures and the 1960–1961 Hillary–Doig 'Silver Hut' expedition, examined alleged scalps and skins held at Pangboche and Khumjung monasteries. Successive genetic surveys, culminating in Sykes et al. (2014) in Proceedings of the Royal Society B and Lan et al. (2017) in Proceedings of the Royal Society B, identified putative Yeti samples as Himalayan brown bear, Tibetan blue bear, Asiatic black bear, and a domestic dog. Mainstream zoology now treats the Yeti as a folkloric phenomenon with a strong bear-misidentification component, while the figure remains spiritually and culturally important across the Himalayas.
 
 ---
+## Names & Aliases
 
-## Etymology & Names
+| Name | Origin | Meaning |
+|---|---|---|
+| Abominable Snowman | English | Popularized 1921 by columnist Henry Newman as a translation of metoh-kangmi |
+| Meh-teh | Tibetan | Man-bear |
+| Metoh-kangmi | Tibetan | Man-bear of the snows |
+| Michê | Tibetan | Man-bear |
+| Dzu-teh | Tibetan/Sherpa | Cattle bear; usually identified with the Himalayan brown bear |
+| Migoi | Tibetan/Bhutanese | Wild man |
+| Mi-go | Tibetan | Wild man |
+| Kang Admi | Hindi/Urdu / Northern India | Snow man |
+| Jungli Admi | Hindi/Urdu / Northern India | Wild man |
 
-### Primary Name
-- **Yeti** — From Tibetan 'yeh-teh' meaning "little man-like animal" or "rock bear". First used in Western media in 1921.
+## Etymology
 
-### Alternative Names
-
-| Name | Language/Region | Meaning |
-|------|-----------------|---------|
-| Abominable Snowman | English | Western designation popularized in 1920s |
-| Meh-Teh | Tibetan | "Man-bear" |
-| Migoi | Tibetan | "Wild man" |
-| Kang Admi | Sherpa (Nepal) | "Snowman" |
-| Dzu-teh | Tibetan | "Large creature" |
-
-**Etymology Note**: The term "Abominable Snowman" arose from a mistranslation of the Tibetan name "Metoh-Kangmi" by British journalist Henry Newman in 1921, transforming the meaning into something more sensational for Western audiences.
-
----
-
-## Classification
-
-### Taxonomy
-```
-Category: CRYPTID
-├── Type: Humanoid
-├── Subtype: Primate-like
-└── Variant: Himalayan
-```
-
-### Related Phenomena
-
-| Phenomenon | Relationship | Description |
-|------------|--------------|-------------|
-| [Bigfoot](/bigfoot) | Similar | North American equivalent, also known as Sasquatch |
-| [Almas](/almas) | Regional variant | Central Asian wild man, smaller than Yeti |
-| [Yowie](/yowie) | Similar | Australian cryptid hominid |
-| [Yeren](/yeren) | Regional variant | Chinese wild man |
+- **Origin**: From Tibetan / Sherpa terms for the creature. 'Yeti' is generally derived from yeh-teh ('that thing') or from a compound of ya ('rocky place') and teh (a softened form of dred, 'bear'). 'Abominable Snowman' was coined by Henry Newman of the Calcutta Statesman in 1921 as a sensational rendering of metoh-kangmi reported by Lt-Col Charles Howard-Bury's Everest reconnaissance.
+- **Meaning**: Approximately 'rock-bear' or 'man-bear' depending on derivation; 'metoh-kangmi' translates as 'man-bear of the snow'.
+- **First use**: 1921 in English-language press (Newman, Calcutta Statesman); local Himalayan terms predate written record
 
 ---
+## Related Phenomena
 
-## Characteristics
+- [Bigfoot](../bigfoot/) — _similar_: North American hairy hominid cryptid
+- [Almas](../almas/) — _similar_: Caucasus / Central Asian hairy hominid cryptid
+- [Yeren](../yeren/) — _similar_: Chinese hairy wild man cryptid
+- [Orang Pendek](../orang-pendek/) — _similar_: Short bipedal cryptid of Sumatra
+- [Yowie](../yowie/) — _similar_: Australian hairy hominid cryptid
+- [Barmanou](../barmanou/) — _regional_variant_: Hairy hominid cryptid of the Hindu Kush and Karakoram
 
-### Physical Description
+---
+## Physical Description
 
-| Attribute | Description | Confidence |
-|-----------|-------------|------------|
-| **Height** | 1.8 - 3.0 meters (6 - 10 feet) | Medium |
-| **Weight** | 150 - 400 kg (330 - 880 lbs) | Low |
-| **Coloration** | Reddish-brown, white, gray, black | Medium |
-| **Build** | Stocky, muscular with broad shoulders, long arms | Medium |
+- **Height**: 1.8–3 meters _(low confidence)_
+- **Weight**: 90–270 kilograms _(low confidence)_
+- **Coloration**: reddish-brown, dark brown, white (in popular Western depictions), grey
+- **Morphology**: Reports across Himalayan tradition group several distinct forms: the larger dzu-teh (associated by Reinhold Messner and others with the Himalayan brown bear), the man-sized meh-teh (the prototypical humanoid Yeti), and smaller forest-dwelling forms such as the chu-teh (often identified with the Himalayan langur).
 
-### Distinguishing Features
+### Features
 
 | Feature | Description | Frequency |
-|---------|-------------|-----------|
-| Body hair | Covered in thick, shaggy fur adapted to extreme cold | Always |
-| Facial structure | Ape-like face with pronounced brow ridge | Common |
-| Large feet | Broad feet adapted for snow travel, leaving distinctive tracks | Always |
-| Conical head | Pointed or domed skull shape reported | Occasional |
-| High-altitude adaptation | Presumed adaptations for thin air and extreme cold | Theoretical |
+|---|---|---|
+| Body hair | Coarse hair covering the body; reddish-brown or dark in most regional accounts | always |
+| Bipedal locomotion | Walks upright on two legs; some witnesses describe partial quadrupedal movement on steep terrain | common |
+| Large feet | Footprints reported in the 30–46 cm range; Shipton's 1951 photograph shows a print roughly 33 cm long with a divergent hallux | common |
+| Conical or pointed skull | Tibetan and Sherpa accounts often describe a conical, sagittal-crested head; the Khumjung 'scalp' has this shape | common |
+| Long arms | Reports describe arms reaching the knees, similar to great-ape proportions | occasional |
 
-### Reported Abilities
+## Reported Abilities
 
-| Ability | Description | Evidence Level |
-|---------|-------------|----------------|
-| High-altitude survival | Able to traverse extreme high-altitude environments | Reported |
-| Vocalizations | Reported whistles, screams, and calls | Reported |
-| Stealth | Ability to move through mountainous terrain undetected | Reported |
+| Ability | Description | Frequency | Evidence |
+|---|---|---|---|
+| High-altitude endurance | Said to range above 4,500 m in snow and ice without difficulty | always | folklore |
+| Whistling vocalizations | Sherpa accounts describe a high whistle or hooting call associated with the meh-teh | common | reported |
+| Strength | Folkloric accounts attribute the ability to overpower yaks and other livestock | common | folklore |
+| Avoidance of humans | Said to flee on encountering humans; sightings in monastic record are typically brief | common | reported |
 
-### Behavioral Patterns
+## Behavior
 
-- **Activity Period**: Variable
-- **Disposition**: Neutral to aggressive
-- **Social Structure**: Solitary
-- **Habitat Preference**: High mountains, snowfields, remote valleys, cave systems
-- **Diet**: Presumed omnivorous or herbivorous
-- **Notable Patterns**: Avoids human contact, territorial behavior, seasonal movement patterns suggested
-
----
-
-## Geographic Distribution
-
-### Primary Range
-
-Himalayan mountain range including Nepal, Tibet, Bhutan, and northern India. Reports are concentrated in remote, high-altitude regions above 12,000 feet, particularly in areas with permanent snowfields and glaciers.
-
-### Sighting Hotspots
-
-| Location | Region | Sighting Count | Notable Period |
-|----------|--------|----------------|----------------|
-| Khumbu Region | Solukhumbu District, Nepal | 100+ | 1920s-1950s |
-| Menlung Basin | Rolwaling Valley, Nepal/Tibet | 50+ | 1950s-1970s |
-| Zemu Glacier | Sikkim, India | 25+ | 1920s-1960s |
-| Annapurna Range | Central Nepal | 15+ | 1950s-present |
-
-### Distribution Notes
-
-- Highest density: Mount Everest region and surrounding areas of Nepal
-- Secondary clusters: Bhutanese Himalayas, Sikkim, northern Bhutan
-- Seasonal patterns: Reports more common in spring and autumn climbing seasons when mountaineers are most active
-- Altitude range: Most sightings occur between 12,000-20,000 feet elevation
+- **Activity**: variable
+- **Disposition**: variable
+- **Social structure**: solitary
+- **Habitat**: alpine snowfields, glacial moraines, high coniferous and rhododendron forest, remote valleys above 3,000 m
+- **Diet**: Folklorically omnivorous; said to take livestock (yaks, sheep) and forage; bear-explanation accounts emphasize plant matter and small mammals
 
 ---
+## Distribution
 
+The Yeti is reported across the Himalayan and adjacent ranges, particularly in Nepal (Khumbu, Solu, Mustang, Makalu-Barun), the Tibet Autonomous Region of China, Bhutan (where the migoi is the national cryptid), Sikkim and other northern Indian states, and parts of southern Siberia where related 'wild man' traditions exist.
+
+### Hotspots
+
+| Location | Region | Sightings | Peak |
+|---|---|---|---|
+| Menlung Glacier / Everest approach | Khumbu, Nepal |  | 1951 |
+| Pangboche and Khumjung monasteries | Solukhumbu, Nepal |  | 1950s–1960s |
+| Makalu-Barun Valley | Province No. 1, Nepal |  | 1980s–1990s |
+| Zemu Glacier, Sikkim | Sikkim, India |  | 1925 |
+
+---
 ## Historical Timeline
 
-### Origins
-
-The Yeti has deep roots in Tibetan Buddhist and pre-Buddhist Bon traditions. Indigenous Sherpa people have long traditions of wild man creatures inhabiting the high mountains. These beings are often viewed as guardians of the peaks, deserving both respect and caution. References appear in Tibetan texts dating back centuries, with pre-Buddhist shamanic traditions including mountain spirit beings.
-
-### Key Events
-
 | Date | Event | Significance |
-|------|-------|--------------|
-| Pre-Buddhist | Tibetan oral traditions | Earliest accounts in religious and shamanic texts |
-| 1832 | B.H. Hodgson report | British official reports locals fleeing from tall, bipedal creature with long dark hair |
-| 1921 | Mount Everest Reconnaissance | Colonel Charles Howard-Bury reports large footprints; Henry Newman coins "Abominable Snowman" |
-| 1925 | N.A. Tombazi sighting | Greek photographer sees bipedal creature at 15,000 feet in Sikkim |
-| 1951-11 | Eric Shipton photographs | Famous photographs of large footprints on Menlung Glacier at 18,000 feet |
-| 1954 | Daily Mail Expedition | Major British newspaper funds large-scale scientific expedition |
-| 1960-1961 | Sir Edmund Hillary Expedition | First Everest summiter leads expedition, finds no conclusive evidence |
-| 2000 | Reinhold Messner book | Renowned mountaineer concludes Yeti is Himalayan brown bear |
-| 2017 | DNA analysis published | Samples from Himalayan region identified as Himalayan brown and Tibetan blue bear |
-
-### Modern Era
-
-Modern Yeti research combines traditional field investigation with DNA analysis, camera traps, and environmental surveys of Himalayan bear populations. Interest remains high in both local culture and the international cryptozoology community. The 2017 DNA studies have shifted scientific focus toward understanding rare Himalayan bear species rather than searching for an unknown primate.
+|---|---|---|
+| Pre-19th century | Tibetan, Sherpa, Lepcha, and Bhutanese traditions of meh-teh, dzu-teh, and migoi | Cultural baseline predating Western contact |
+| 1832 | B. H. Hodgson reports a hair-covered bipedal creature in northern Nepal | Earliest detailed Western account |
+| 1921 | The Howard-Bury Everest reconnaissance reports tracks at ~6,400 m on the Lhakpa La; Henry Newman of the Calcutta Statesman renders metoh-kangmi as 'Abominable Snowman' | Origin of the English popular term |
+| 1925 | N. A. Tombazi observes a hair-covered bipedal figure near the Zemu Glacier, Sikkim | First widely-cited Western daylight sighting |
+| 1951-11 | Eric Shipton and Michael Ward photograph a large footprint near the Menlung Glacier | The most-discussed single piece of physical evidence in the Yeti record |
+| 1954 | The Daily Mail Snowman Expedition led by John Angelo Jackson photographs alleged Yeti scalps and tracks in the Himalayas | First major media-funded Yeti expedition |
+| 1957-1959 | Tom Slick funds a series of Yeti expeditions to the Khumbu, with Peter Byrne and others | Removed and substituted material from the Pangboche 'hand' for analysis |
+| 1960-1961 | Edmund Hillary and Marlin Perkins lead the Silver Hut expedition; the Khumjung 'scalp' is taken to the West and identified by Marca Burns and others as serow hide | First systematic scientific examination of Yeti relics |
+| 1986 | Reinhold Messner begins fieldwork that he later argues identifies the dzu-teh with the Himalayan brown bear (Ursus arctos isabellinus) | Influential bear-identification hypothesis |
+| 2014-07-02 | Sykes et al. publish a peer-reviewed genetic survey in Proceedings of the Royal Society B | First broad peer-reviewed DNA survey of putative Yeti samples |
+| 2017-11-29 | Lan et al. publish a follow-up genetic study in Proceedings of the Royal Society B identifying putative Yeti samples as Himalayan brown bear, Tibetan blue bear, Asiatic black bear, and a domestic dog | Current best peer-reviewed DNA result |
 
 ---
-
 ## Notable Sightings
 
-### Tombazi Sighting (1925) ⭐
-
-> **Date**: 1925
-> **Location**: Zemu Glacier, Sikkim, India
-> **Witnesses**: 1 (N.A. Tombazi)
-> **Evidence**: Written account, footprint descriptions
-
-Greek photographer N.A. Tombazi observed a creature at approximately 15,000 feet altitude while on an expedition. He described it as walking upright, stopping occasionally to pull at rhododendron bushes. The figure was dark against the snow and definitely bipedal. Tombazi was an experienced mountaineer familiar with the wildlife of the region.
-
-The creature was observed for 1-2 minutes in clear weather conditions, though at some distance. After it disappeared, Tombazi and his party found footprints in the snow that were described as similar to human prints but with distinct differences in size and shape.
-
-**Credibility Assessment**: Medium — Experienced observer with detailed contemporary account, though distant sighting could potentially be a misidentified bear standing upright.
+### Tombazi sighting, Zemu Glacier ⭐
+> **Date**: 1925-01-01  
+> **Location**: Near the Zemu Glacier on the eastern flank of Kangchenjunga  
+> **Witnesses**: 1 (Royal Geographical Society photographer (N. A. Tombazi))  
+> **Evidence**: Tombazi's published account; Field notes of 16 footprints  
+Photographer N. A. Tombazi, on a Royal Geographical Society expedition, reported observing a tall bipedal figure at roughly 200–300 yards on a slope near the Zemu Glacier; the figure pulled at rhododendron bushes and moved on two legs. Tombazi later inspected sixteen footprints, each about 6–7 inches long, in the snow.
+**Credibility**: medium — Cited by both pro-Yeti researchers and skeptics as a reference daylight account.
+**Sources**: Tombazi, N. A. (1925), Royal Geographical Society lecture
 
 ---
 
-### Shipton Footprint Photographs (1951) ⭐
-
-> **Date**: November 1951
-> **Location**: Menlung Glacier, Rolwaling Valley, Nepal/Tibet
-> **Witnesses**: 2 (Eric Shipton, Michael Ward)
-> **Evidence**: Clear photographs of footprints with ice axe for scale
-
-Eric Shipton, one of the era's most renowned mountaineers, and Michael Ward discovered and photographed a series of large footprints in the snow at 18,000 feet on the Menlung Glacier. The prints measured approximately 13 inches long and 8 inches wide with clear toe impressions visible in the photographs.
-
-The photographs became the most famous evidence of Yeti tracks and sparked worldwide interest. The prints showed distinct features including what appeared to be five toes and a broad foot structure. The use of an ice axe for scale in the photographs provided clear size reference.
-
-Skeptics have suggested various explanations including melted and distorted bear tracks, while believers cite the clear definition and high altitude as evidence against misidentification.
-
-**Credibility Assessment**: Medium-High — Photographic evidence from credible witnesses in remote location. Ongoing debate over whether natural phenomena or known animals could create such prints.
+### Shipton footprint photographs, Menlung Glacier ⭐
+> **Date**: 1951-11-01  
+> **Location**: Menlung Glacier, on the approach to Mount Everest from the south  
+> **Witnesses**: 2 (Mountaineer (Eric Shipton), Mountaineer / physician (Michael Ward))  
+> **Evidence**: Photographs (Royal Geographical Society archive); Sherpa Sen Tensing's account  
+On the 1951 Mount Everest Reconnaissance, Eric Shipton and Michael Ward photographed a line of large footprints in fresh snow at roughly 6,000 m. The lead photograph, with an ice axe for scale, shows a print roughly 33 cm long with a clearly divergent first toe and four smaller digits.
+**Credibility**: medium — The single most-analyzed piece of Yeti footprint evidence.
+**Sources**: Shipton, E. (1952), The Mount Everest Reconnaissance Expedition 1951
 
 ---
 
-### N.A. Tombazi Tracks (1925)
-
-> **Date**: 1925
-> **Location**: Zemu Glacier area, Sikkim, India
-> **Witnesses**: Multiple expedition members
-> **Evidence**: Footprint observations
-
-Following the sighting of the creature, Tombazi's expedition found and examined footprints in the snow. The tracks were described in his expedition account as being larger than human prints with unusual characteristics. The prints were found at extreme altitude where few animals venture.
-
-**Credibility Assessment**: Medium — Multiple observers, contemporary documentation, though no photographs of the prints exist.
+### Hillary and Tenzing footprint observation ⭐
+> **Date**: 1953-01-01  
+> **Location**: Mount Everest expedition route  
+> **Witnesses**: 2 (Mountaineers (Edmund Hillary and Tenzing Norgay))  
+> **Evidence**: Expedition reports  
+During the 1953 British Mount Everest expedition, Edmund Hillary and Tenzing Norgay reported observing large footprints in the snow attributed locally to the Yeti. Hillary later organised the 1960–1961 Silver Hut expedition specifically to investigate Yeti claims, and concluded that the evidence was inconsistent with an unknown ape.
+**Credibility**: medium — Often cited as the moment in which the Yeti became part of mainstream mountaineering history.
+**Sources**: Hillary, E. & Doig, D. (1962), High in the Thin Cold Air
 
 ---
 
-*See [/sightings](/sightings) for complete sighting database.*
+### Destination Truth footprint cast, Everest region
+> **Date**: 2007-12-01  
+> **Location**: Everest region, Khumbu valley  
+> **Witnesses**: 1 (Television crew (Joshua Gates and team))  
+> **Evidence**: Plaster casts; Television footage  
+A film crew working on the Sci Fi Channel programme Destination Truth, led by Joshua Gates, photographed and cast a set of three footprints near a streambed in the Everest region. The casts measured roughly 33 cm in length with five toes.
+**Credibility**: low — Often cited in popular accounts; subjected to limited subsequent analysis.
+**Sources**: Destination Truth, Sci Fi Channel (2008 broadcast)
 
 ---
+
 
 ## Evidence
 
-### Physical Evidence
-
-| Type | Description | Status |
-|------|-------------|--------|
-| Khumjung Scalp | Alleged Yeti scalp kept at monastery | Debunked (Himalayan serow) |
-| Pangboche Hand | Alleged Yeti hand from monastery | Debunked |
-| Hair samples | Various samples from sighting locations | Debunked (Himalayan bears, dog) |
-| Bone samples | Skeletal material claimed as Yeti | Debunked (Himalayan bears) |
-
-**2017 DNA Analysis**: Dr. Charlotte Lindqvist of the University at Buffalo led a comprehensive study analyzing nine "Yeti" samples from museums and private collections. Results showed eight samples came from Himalayan brown bears and Tibetan blue bears, with one from a dog. This study was published in *Proceedings of the Royal Society B*.
-
-### Photographic/Video Evidence
+### Physical
 
 | Name | Date | Description | Status |
-|------|------|-------------|--------|
-| Shipton Footprints | 1951-11 | Clear photographs of tracks at 18,000 feet | Disputed |
-| Various footprint photos | Multiple | Numerous photographs from expeditions | Disputed |
+|---|---|---|---|
+| Pangboche hand | 1957-1959 | An alleged Yeti hand kept at Pangboche monastery in the Khumbu, examined and partially substituted by Peter Byrne during the Slick expeditions and later analyzed in the West. | disputed |
+| Khumjung 'scalp' | 1960-1961 | Conical hair-covered cap held at Khumjung monastery and brought to the West for analysis under the Hillary–Doig expedition. | debunked |
+| Shipton Menlung footprint | 1951-11 | Photograph of a large footprint in snow on the Menlung Glacier, with an ice axe for scale. | disputed |
+### Photographic
 
-### Audio Evidence
+| Name | Date | Description | Status |
+|---|---|---|---|
+| Shipton 1951 footprint photographs | 1951-11 | Photographs of a track line in snow on the Menlung Glacier; the lead frame shows a single print at high contrast. | disputed |
+### Trace
 
-No significant audio recordings exist for the Yeti phenomenon, unlike North American Bigfoot research.
+| Name | Date | Description | Status |
+|---|---|---|---|
+| Sykes et al. 2014 genetic survey | 2014 | Peer-reviewed mitochondrial DNA survey of 30 putative Yeti, Bigfoot, and other anomalous primate hair samples. | debunked |
+| Lan et al. 2017 Yeti DNA study | 2017-11-29 | Peer-reviewed nuclear and mitochondrial sequencing of nine putative Yeti specimens from museum and monastery collections. | debunked |
 
 ---
-
 ## Theories & Explanations
 
-### Cryptozoological Theories
+### Paranormal / Cryptozoological
 
-1. **Surviving Gigantopithecus**
-   Yeti could be a descendant of *Gigantopithecus blacki*, an extinct giant ape that lived in Southeast Asia until approximately 100,000 years ago. Proponents argue that the species could have migrated north into the Himalayas and adapted to high-altitude conditions. Size estimates from fossil evidence are consistent with Yeti descriptions.
+**Spiritual / supernatural being** _(Bön and Tibetan Buddhist sources (cultural))_
 
-2. **Unknown Bear Species**
-   An undiscovered or extremely rare bear species with unusual behavior and appearance. The Himalayan brown bear is rarely seen and poorly studied. Some researchers suggest an undocumented subspecies or related species could explain sightings.
+In Tibetan and Bön traditions the meh-teh and migoi are sometimes treated as spiritually charged forest beings whose appearance is an omen rather than a strictly biological event.
 
-3. **Relict Hominid Population**
-   A surviving population of an archaic hominid such as *Homo erectus* or a related species that adapted to Himalayan conditions. This theory parallels similar suggestions for Bigfoot in North America.
+### Scientific
 
-### Scientific Explanations
+**Surviving Gigantopithecus blacki** _(Grover Krantz)_
 
-1. **Himalayan Brown Bear**
-   The most widely accepted scientific explanation following 2017 DNA studies. The Himalayan brown bear (*Ursus arctos isabellinus*) is rare, can walk bipedally, and inhabits the same regions as Yeti reports. Bears standing upright can appear remarkably human-like from a distance.
+Hypothesis that the Yeti is a relict population of the extinct giant ape Gigantopithecus blacki, surviving in the high Himalayas.
 
-2. **Tibetan Blue Bear**
-   Another rare bear species (*Ursus arctos pruinosus*) identified in DNA analysis. This critically endangered subspecies was virtually unknown to Western science until recently.
+**Undescribed Himalayan hominid** _(John Napier (open consideration), Bernard Heuvelmans)_
 
-### Skeptical Explanations
+Hypothesis that the meh-teh is an as-yet-undescribed Asian primate species.
 
-1. **Misidentification of Known Animals**
-   Sightings result from misidentification of bears, monkeys, or other known Himalayan fauna. Extreme altitude, difficult conditions, and brief viewing times increase likelihood of misidentification. Bears walking upright can appear bipedal and human-like.
+### Skeptical
 
-2. **Track Distortion in Snow**
-   Footprints result from melting and refreezing of normal animal tracks in snow. As snow melts during the day and refreezes at night, tracks can enlarge and distort, creating unusual shapes. Scientific experiments have demonstrated this effect with bear tracks.
+**Himalayan brown bear / Tibetan blue bear** _(Reinhold Messner, Bryan C. Sykes, Tianying Lan)_
 
-3. **Cultural Mythology and Expectation**
-   The Yeti is purely a folkloric tradition without basis in biological reality. Mountain spirit beliefs are common in Himalayan culture. Western mountaineers, aware of local legends, may interpret ambiguous sightings through this cultural lens.
+The dzu-teh and many Yeti reports correspond to known Himalayan bear species, especially the rare Himalayan brown bear (Ursus arctos isabellinus) and the Tibetan blue bear (Ursus arctos pruinosus).
 
-4. **Combination of Factors**
-   Most sightings result from a combination of rare bear sightings, distorted tracks, cultural expectations, and the psychological effects of extreme altitude and isolation.
+**Asiatic black bear (climbing-track hypothesis)** _(Daniel C. Taylor)_
 
----
+Tracks reported as Yeti in forest and snowfield boundary zones are made by Asiatic black bears, whose hind paws step into the prints of their fore paws and whose claws produce a hominid-like track when one paw partially overlies the other.
 
-## Cultural Significance
+**Misidentification, hoax, and cultural transmission** _(James Randi, Daniel Loxton, Donald Prothero)_
 
-### Indigenous Perspectives
+Other Yeti reports are explained by misidentification of langurs, serows, and humans, by deliberate hoaxes (some monastery relics), and by media-driven cultural transmission of expectation.
 
-> ⚠️ **Cultural Sensitivity Note**: Yeti traditions predate Western "Abominable Snowman" sensationalism by centuries. Many Indigenous communities consider mountain spirits sacred and deserving of respect. Consult local authorities and spiritual leaders before investigating in culturally significant areas. Do not disturb religious artifacts, monastery relics, or sacred sites.
 
-#### Sherpa Traditions
-The Sherpa people of Nepal have long-standing beliefs about wild creatures inhabiting the high mountains. These beings are often viewed as real but spiritual entities, guardians of the peaks who should be respected and feared. Disrespecting the mountains or their guardians is believed to bring misfortune.
+## Indigenous Perspectives
 
-#### Tibetan Buddhism
-Tibetan Buddhist monasteries have maintained traditions and artifacts related to mountain spirits for centuries. Some monasteries house alleged Yeti relics (scalps, hands) that serve religious and cultural purposes regardless of their zoological authenticity.
+> ⚠️ **Indigenous Himalayan accounts of meh-teh and migoi predate Western 'Abominable Snowman' framing and should not be conflated with it.**
 
-#### Pre-Buddhist Bon Traditions
-The indigenous Bon religion of Tibet includes mountain spirit beings in its cosmology. These traditions predate Buddhism in the region and represent some of the oldest Yeti-related beliefs.
+**Cultures**: Sherpa, Tibetan, Bhutanese, Lepcha
 
-### Popular Culture
+The Yeti and its regional analogues are integrated into long-standing Himalayan knowledge systems about high-altitude ecology, rather than being a strictly cryptozoological category.
 
-**Literature**:
-- *The Abominable Snowman: Adventure in Search of the Yeti* by Ralph Izzard (1955)
-- *My Quest for the Yeti* by Reinhold Messner (2000)
-- *Tintin in Tibet* by Hergé (1960) — Classic comic featuring the Yeti
-- *Abominable Science!* by Daniel Loxton and Donald Prothero (2013)
+_Guidelines: Consult monastic and community authorities before publishing about specific relics, and credit Indigenous sources directly._
 
-**Film/TV**:
-- *The Abominable Snowman* (1957) — Hammer Films production
-- *Monsters, Inc.* (2001) — Character inspired by Yeti lore
-- *Smallfoot* (2018) — Animated film reversing the perspective
-- *Expedition Unknown: Hunt for the Yeti* (2016) — Documentary series
+## Popular Culture
 
-**Games**:
-- *SkiFree* (1991) — Classic game featuring Yeti antagonist
-- *Uncharted 2: Among Thieves* (2009) — Video game featuring Yeti
-- Various board games and role-playing games
+**Literature**: Abominable Science: Origins of the Yeti, Nessie, and Other Famous Cryptids — Daniel Loxton & Donald R. Prothero (2013); My Quest for the Yeti — Reinhold Messner (2000); Yeti: The Ecology of a Mystery — Daniel C. Taylor (2017); On the Track of Unknown Animals — Bernard Heuvelmans (1958)
 
-**Other**:
-- Tourism mascot throughout Nepal and Himalayan region
-- Commercial branding for outdoor and adventure products
-- Popular culture icon representing mystery and exploration
-- Significant tourism industry in Nepal related to Yeti trekking
+**Film / TV**: The Abominable Snowman (Hammer Film Productions, 1957); Smallfoot (Warner Bros., 2018); Abominable (DreamWorks, 2019); Destination Truth: 'Hunt for the Yeti' (Sci Fi Channel, 2008)
+
+**Games**: Yeti enemies and bosses across the Far Cry, Tomb Raider, and SkiFree franchises
+
+**Other**: Bhutan 1966 Yeti postage stamp issue; Sakteng Wildlife Sanctuary (Bhutan) administered in part as a migoi reserve
 
 ---
+## Research
 
-## Research & Investigation
+### Researchers
 
-### Notable Researchers
-
-| Name | Affiliation | Contribution |
-|------|-------------|--------------|
-| Sir Edmund Hillary | Mountaineer/Explorer | Led comprehensive 1960-61 expedition; concluded no conclusive evidence |
-| Reinhold Messner | Renowned mountaineer | Extensive research over decades; concluded Yeti is Himalayan brown bear |
-| Dr. Charlotte Lindqvist | University at Buffalo | Led 2017 DNA analysis study identifying bear origins of samples |
-| Eric Shipton | Mountaineer | Documented famous footprint photographs in 1951 |
+| Name | Affiliation | Contribution | Period |
+|---|---|---|---|
+| Eric Shipton | British mountaineer | 1951 Menlung footprint photographs, the most-analyzed Yeti physical trace | 1930s–1950s |
+| Sir Edmund Hillary | Mountaineer | Led the 1960–1961 Silver Hut expedition that examined the Khumjung scalp and other relics | 1953–1961 |
+| Reinhold Messner | Mountaineer / author | Long-running Himalayan field investigation supporting the brown-bear identification of the dzu-teh | 1986–present |
+| Dr. Daniel C. Taylor | Future Generations University | Barun Valley field tracking and the Asiatic black bear track-overlap hypothesis | 1980s–present |
+| Dr. Bryan C. Sykes | University of Oxford | 2014 peer-reviewed Yeti / Bigfoot hair DNA survey | 2012–2014 |
+| Dr. Tianying Lan | University at Buffalo | Lead author of the 2017 Proc. R. Soc. B genetic survey of putative Yeti samples | 2014–2017 |
+| Tom Slick | Texas oilman / private patron | Funded the 1957–1959 Slick expeditions to the Khumbu | 1957–1959 |
+| Peter Byrne | Big-game hunter / cryptid researcher | Field investigator for the Slick expeditions; involvement with the Pangboche hand | 1948–present |
 
 ### Organizations
 
-- **[Expedition Unknown](https://www.travelchannel.com/shows/expedition-unknown)** — Documentary investigation series
-- **Various mountaineering organizations** — Historical expeditions by Alpine Club and others
+- [Royal Geographical Society](https://www.rgs.org) — Custodian of Shipton, Tombazi, and other expedition records
+- [Bhutan Department of Forests and Park Services / Sakteng Wildlife Sanctuary](#) — Administers a sanctuary established in part as a migoi reserve
+- [International Cryptozoology Society](https://www.cryptozoologysociety.org) — Cryptozoology peer review and conferences
 
-### Historical Expeditions
-
-1. **Daily Mail Expedition (1954)** — Large-scale British newspaper-funded scientific expedition
-2. **Sir Edmund Hillary Expedition (1960-61)** — Comprehensive search finding no evidence but collecting valuable data
-3. **Reinhold Messner Research (1986-2000)** — Personal multi-year investigation by legendary mountaineer
-
-### Ongoing Studies
-
-Modern research focuses on:
-- DNA analysis of historical samples and new findings
-- Camera trap surveys in remote Himalayan regions
-- Systematic documentation of rare Himalayan brown bear and Tibetan blue bear populations
-- Conservation efforts for endangered Himalayan bear species
-- Anthropological study of Yeti traditions in local cultures
+Active areas include Himalayan brown bear and Asiatic black bear ecology, ongoing DNA work on monastery relics under permission of custodial communities, and re-examination of mid-20th-century expedition photographic and physical archives.
 
 ---
+## Sources
+
+See [SOURCES.md](SOURCES.md) for the complete bibliography.
+
 
 ## How to Report a Sighting
 
-If you've witnessed the Yeti, please submit a report:
-
 1. **GitHub Issue**: [Submit Sighting Report](../../issues/new?template=sighting_report.yml)
-2. **Required Information**:
-   - Date and time (as precise as possible)
-   - Exact location (GPS coordinates preferred)
-   - Altitude
-   - Weather conditions
-   - Detailed description
-   - Any evidence (photos, video, audio, tracks)
-   - Witness information (can be anonymized)
-   - Familiarity with local wildlife
-
-**Important**: Be aware of altitude sickness and environmental factors that may affect perception. Consult with local guides about known wildlife in the area.
-
-See [Contributing Guidelines](https://github.com/wyrdness/.github/blob/main/CONTRIBUTING.md) for full submission requirements.
+2. Provide date, location, witnesses, description, conditions, and any evidence.
 
 ---
-
-## API Reference
-
-Machine-readable data is available in [`api.json`](api.json).
-
-### Data Access
-
-```javascript
-// Using WyrdnessAPI
-const wyrd = new WyrdnessAPI();
-const yeti = await wyrd.getPhenomenon('yeti');
-const sightings = await wyrd.getSightings('yeti');
-```
-
-### Direct Access
-
-```
-Raw JSON: https://raw.githubusercontent.com/wyrdness/yeti/main/api.json
-```
-
----
-
-## Sources & References
-
-See [SOURCES.md](SOURCES.md) for complete bibliography.
-
-### Primary Sources
-
-- Lindqvist, C., et al. (2017). *Evolutionary history of enigmatic bears in the Tibetan Plateau–Himalaya region and the identity of the yeti*. Proceedings of the Royal Society B. doi:10.1098/rspb.2017.1804
-- Messner, R. (2000). *My Quest for the Yeti*. St. Martin's Griffin.
-- Izzard, R. (1955). *The Abominable Snowman: Adventure in Search of the Yeti*. Hodder & Stoughton.
-
-### Scientific Studies
-
-- 2017 DNA Analysis (Lindqvist et al.) — Definitive study identifying bear origins of samples
-- Various mountaineering expedition reports (1920s-1960s)
-- Shipton, E. (1952). *The Mount Everest Reconnaissance Expedition*
-
-### Cultural & Anthropological Sources
-
-- Tibetan Buddhist monastery records and traditions
-- Sherpa oral history collections
-- Ethnographic studies of Himalayan peoples
-
----
-
-## Changelog
-
-| Version | Date | Changes |
-|---------|------|---------|
-| 1.0.0 | 2026-01-14 | Initial release |
-
-See [CHANGELOG.md](CHANGELOG.md) for full history.
-
----
-
 ## License
 
-- **Content**: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
-- **Data**: [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)
+Content: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)  
+Data: [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)  
 
 ---
-
-<div align="center">
-
-*Part of the [Wyrdness](https://github.com/wyrdness) Paranormal Archive*
-
-[Report Sighting](../../issues/new?template=sighting_report.yml) • [Suggest Correction](../../issues/new?template=correction.yml) • [Full API](api.json)
-
-</div>
+_Auto-generated from `api.json`. Do not edit by hand — edit `api.json` and run `make repo-docs`._
